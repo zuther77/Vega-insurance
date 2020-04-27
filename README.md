@@ -14,9 +14,11 @@ Step 5: Now open your favourite browser.
         Search 'localhost/insurancecompany/'. This  should open up the landing page to the site.
         
 Step 6: Open another browser tab and search 'localhost/phpmyadmin/'
-        Go to the import tab in this page and import the file named insurance.sql
+
+Step 7: Click on databases tab and create a database named 'vega' 
+        Go to the import tab and import the file named company.sql
         
 Step 7: Voila the site in up and running. Feel free to improve the website according to your liking.
 
 
-Issues: After Succesfull login, there is a page called My Profile which has no link to any page .
+Issues: After Succesfull login, there is a page called My Profile. This page is yet to be made. Feel free to do so.
